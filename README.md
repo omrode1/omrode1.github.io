@@ -66,4 +66,4 @@ Gained experience in CAD modeling, embedded systems design, and manufacturing pr
 
 ---
 
-Feel free to customize this template further to suit your preferences and the requirements of your portfolio website.
+
