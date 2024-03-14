@@ -33,7 +33,7 @@ Nagpur, Maharashtra, India
 Utilizing computer vision for object detection and developing Python scripts for UAVs. Proficient in crafting algorithms for autonomous flight planning and control, with expertise in training custom models using YOLOv8.
 
 ### Formula Ashwariders
-**Team Captain**  
+**Team Captain**  ![At Formula Bharat 2024] (assests/TC back.jpeg)
 April 2023 - Present  
 Nagpur, Maharashtra, India  
 Leading a team of engineers in designing and building race cars for Formula Student competitions. Responsibilities include project management, sponsorship acquisition, technical direction, and ensuring safety and compliance.
@@ -44,7 +44,7 @@ Nagpur, Maharashtra, India
 Curating content and managing social media platforms to promote team activities and engage supporters effectively.
 
 **Control Electronics and Data Acquisition**  
-June 2021 - May 2023  
+June 2021 - May 2023   ![Iterations on elctrical harness] (assests/Stock harness.jpg)
 Nagpur, Maharashtra, India  
 Responsible for vehicle electrical harness and data extraction during testing phases. Developed driver interface modules using C++, C, and MATLAB.
 
@@ -64,6 +64,9 @@ Gained experience in CAD modeling, embedded systems design, and manufacturing pr
   Secondary School Certificate  
   April 2018
 
+## Awards 
+**Intel Unnati Grand Challenge Summer 2023, Finalist @IIIT Hyderabad**
+![10K cash prize for securing finalist spot] (assests/Intel hyd prize.png)
 ---
 
 
