@@ -1,4 +1,4 @@
-# Om Rode - Robotics and Automation Engineer 
+# Robotics and Automation Engineer 
 
 ## Contact
 - Email: omrode.work@gmail.com
