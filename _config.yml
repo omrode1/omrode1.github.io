@@ -1,5 +1,17 @@
+# Website Configuration
+
+# Title of your website
 title: Om Rode
-Logo: assests/profile black.jpg
-#description
-#show_downloads: false
+
+# Description of your website
+description: Personal portfolio of Om Rode showcasing skills and experiences.
+
+# Path to the logo image
+logo: "assets/profile black.jpg"
+
+# Show or hide downloads section
+show_downloads: false
+
+# Theme for your website
 theme: jekyll-theme-minimal
+
