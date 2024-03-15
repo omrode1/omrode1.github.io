@@ -15,3 +15,59 @@ show_downloads: false
 # Theme for your website
 theme: jekyll-theme-minimal
 
+# Enable Google Analytics for tracking website traffic
+google_analytics: UA-XXXXXXXXX-X
+
+# Specify the base URL if your site is hosted in a subdirectory
+# baseurl: "/subdirectory"
+
+# Set the default layout for pages/posts
+layout: default
+
+# Specify additional plugins if needed
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Pagination configuration
+paginate: 5
+paginate_path: "/page:num/"
+
+# Enable Markdown processing for HTML files
+markdown: kramdown
+
+# Specify the timezone for date/time functions
+timezone: America/New_York
+
+# Custom variables for use in templates
+author:
+  name: Om Rode
+  email: omrode.work@gmail.com
+  social:
+    linkedin: https://www.linkedin.com/in/omrode
+    instagram: https://www.instagram.com/omrode
+
+# Custom navigation links
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
+  - title: Blog
+    url: /blog
+
+# Additional settings for SEO optimization
+permalink: /:title
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Om Rode"
+
+# GitHub-specific settings
+github:
+  is_project_page: false
